@@ -1,0 +1,8 @@
+# Python GUI Calculator Dependencies
+# 
+# This project uses only built-in Python libraries:
+# - tkinter (GUI framework) - included with Python
+# - operator (mathematical operations) - built-in module
+#
+# No external dependencies are required.
+# Python 3.6+ is recommended for compatibility.
